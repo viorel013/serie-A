@@ -1,0 +1,90 @@
+#EXTM3U
+
+           ***CANALI CAMPIONATO SERIE A ***
+                
+                  ***SERIE A ITALIA***
+
+#EXTINF:-1,Sky SPORT 24
+acestream://4fcc05b9342cfd48ab019400457716ac83c31ffd
+
+               
+                 ***SERIE A REGNO UNITO***
+
+#EXTINF:-1, Bt sport 1 Hd
+acestream://6e13aabe1da8b4455ddc90e5698de16d69a6e793
+#EXTINF:-1, Bt sport 2 Hd
+acestream://daf138c9ee9ac26e63993e31f3a519847bace0eb
+                
+                ***SERIE A POLONIA***
+
+#EXTINF:-1,Eleven Sport 1
+acestream://5f7ba5cddba6d44435b75e28649b00393bbf2dc4
+#EXTINF:-1,Eleven sport 2
+acestream://572880fd38805efc2d5c9fa72a72669a00583808
+#EXTINF:-1,Eleven Sport 3
+acestream://d7f042a816012aaa4898b1f56107a2c13c7df323
+#EXTINF:-1,Eleven Sport 4
+acestream://0e86afa4f4aea82b00e527967eec9dc938ded8c1
+#EXTINF:-1,Eleven Sport 1 Hd
+acestream://ca89f7973ca3084f9c33bf7105daca5b46575ed5
+#EXTINF:-1,Eleven Sport 2 Hd
+acestream://164da6c05cc464000294fdce997a6ad7f095431f
+#EXTINF:-1,Polsat Sport extra (sport)
+acestream://12989443272b25e8b402aa609aa436a89536933c
+#EXTINF:-1,Polsat Sport 
+acestream://12989443272b25e8b402aa609aa436a89536933c
+                 
+                ***SERIE A GERMANIA***
+
+#EXTINF:1,DAZN 1 DE
+acestream://9c2a1031d972cb21e51d8ff6cf95a38d98b8f87e
+#EXTINF:1,DAZN 2 DE
+acestream://699ed54b2a140b7d75ba06ecbe8c578e079b8db2
+
+                 SERIE A SPAGNA***
+
+#EXTINF:-1,Liga campeones
+acestream://b0aa6d932aaf12452c91ed5fb07642c6a31394d7
+#EXTINF:-1,Vamos HD (sport)
+acestream://1753a98641a897c98ae6cb2e9bfed81b654cfb85
+ 
+                   ***SERIE A ARENA***
+#EXTINF:-1,ARENA SPORT 1 SR HD
+acestream://e809b91067d4151e863fb5f94fb7e2452fd4f2ea
+#EXTINF:-1, Arena Sport Extra
+acestream://4cf945e9dbb28aaa3b1bc73145f54d628a74b51d
+#EXTINF:-1, Arena Sport 1 
+acestream://e4c0aff2c98cc3bd09f678325ae09d8d560f2705
+#EXTINF:-1, Arena Sport 2 
+acestream://776f3e403abc35022765ed0ea19ec38856ca291e
+#EXTINF:-1, Arena  Sport 4
+acestream://9ed361a97e065385b0eff38bb8a8fa211cd7cfd4
+#EXTINF:-1,Arena sport 1 SK HD  (sport)
+acestream://e4c0aff2c98cc3bd09f678325ae09d8d560f2705
+#EXTINF:-1,Arena Sport 2 SK (sport)
+acestream://45aeb60dca9ffbeb99bd852fdcbaf4324184ecc6
+
+                 ***SERIE A AZERBAIJAN***
+
+#EXTINF:-1,Idmаn Azerbaygian (sport)
+acestream://25d6132b4a57d444193e82e8f0d028df79475acb
+
+                   ***SERIE A ARMENIA***
+
+#EXTINF:-1,CBC Sport HD
+acestream://7c213bb9895a185c7ce136d56e38ebb81f2931db
+
+              ***CHAMPIONS LEAGUE***
+
+#EXTINF:-1, Bt sport 1 Hd
+acestream://6e13aabe1da8b4455ddc90e5698de16d69a6e793
+#EXTINF:-1, Bt sport 2 Hd
+acestream://daf138c9ee9ac26e63993e31f3a519847bace0eb
+#EXTINF:0,DAZN 1 DE
+acestream://9c2a1031d972cb21e51d8ff6cf95a38d98b8f87e
+#EXTINF:0,DAZN 2 DE
+acestream://699ed54b2a140b7d75ba06ecbe8c578e079b8db2
+#EXTINF:-1,Polsat Sport Premium1
+acestream://0e4f19a8e1d43880c228dfd522aa31cf726c7296
+#EXTINF:-1,Polsat Sport Premium 2
+acestream://a5f1c6f87283e5c3f54f927d3825105961770112
